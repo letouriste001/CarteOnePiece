@@ -32,10 +32,16 @@ function initialize() {
         }
     };
 
-    var map = new google.maps.Map(document.getElementById('map-canvas'),
+    var map = new google.maps.Map(document.getElementById('map-canvas'),//toto
         mapOptions);
     map.mapTypes.set('test', moonMapType);
     map.setMapTypeId('test');
+}
+
+function toto(){
+
+    var toto = 10;
+    var titi=360;
 }
 
 // Normalizes the coords that tiles repeat across the x axis (horizontally)
