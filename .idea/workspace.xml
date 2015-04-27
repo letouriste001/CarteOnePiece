@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b5f4a64-d4c3-4520-9a87-f04439c0673b" name="Default" comment="test de commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/carto.js" afterPath="$PROJECT_DIR$/scripts/carto.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="2b5f4a64-d4c3-4520-9a87-f04439c0673b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CarteOnePiece.iws" />
@@ -212,6 +210,13 @@
       <option name="number" value="Default" />
       <updated>1430125044032</updated>
     </task>
+    <task id="LOCAL-00001" summary="test de commit">
+      <created>1430128649475</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1430128649475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
